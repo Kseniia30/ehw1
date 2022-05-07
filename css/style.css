@@ -108,6 +108,17 @@ a {
     background-size: cover;
     background-position: center;
 }
+.why-list {
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+}
+.why-list-item {
+    margin-right: 10px;
+}
+.why-list-item-last {
+    margin-right: 0;
+}
 .footer-container {
     padding: 10px 15px;
     background-color:var(--bgcone);
